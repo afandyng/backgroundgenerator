@@ -1,4 +1,4 @@
-# backgroundgenerator
+# Background Generator
 
 ![](img/homepage.png)
 
